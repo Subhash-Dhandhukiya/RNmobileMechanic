@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobMech</string>
+    <string name="facebook_app_id">452014346416751</string>
+
+    <string name="default_notification_channel_id">channel_id</string>
+
+
+
+
+    <string name="facebook_client_token">8b44cb41191ad7cd9e95670989a59438</string>
+</resources>

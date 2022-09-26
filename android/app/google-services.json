@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "328876334508",
+    "project_id": "mob-mech",
+    "storage_bucket": "mob-mech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328876334508:android:39ac1c777a0cffe1d92e09",
+        "android_client_info": {
+          "package_name": "com.mobilemechanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328876334508-kkf4258jcqd2r8c2gdubm2037o0bvd89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdQI0ka3_GjVXUWasMlo9LNp8k_wskYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328876334508-kkf4258jcqd2r8c2gdubm2037o0bvd89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328876334508-o0vr9ai7e25961ie6v9thldoard2tirf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactjs.native.example.mobileMechanic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
